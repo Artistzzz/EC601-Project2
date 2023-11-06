@@ -1,5 +1,5 @@
 # EC601-Project2
-Google map
+# Google map
 
 Product Mission Statement:
  - This project is to help users to navigate from place to place with specific instructions.
